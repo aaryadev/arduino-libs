@@ -7,3 +7,6 @@
 * **Measuring range** : humidity 20-90%RH
 * **Temperature** : 0~50Celsius
 * **Accuracy** : hu
+
+## Datasheet
+[Datasheet](http://www.micro4you.com/files/sensor/DHT11.pdf)
