@@ -8,5 +8,13 @@
 * **Temperature** : 0~50Celsius
 * **Accuracy** : hu
 
+## Pin Config
+![pin info](https://lh3.googleusercontent.com/A7oKQyuj25JX3mE4O4xfLHrh8VOIWGS0Cgzg61x8NE4=s220-no)
+
+With arduino 
+
+![With Arduino](https://lh3.googleusercontent.com/lQO4vEh3pMfZpe5a1M_pxDV4W0hD88ebG1-MxIiYrYg=w400-no)
+10k R added
+
 ## Datasheet
 [Datasheet](http://www.micro4you.com/files/sensor/DHT11.pdf)
