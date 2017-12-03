@@ -23,7 +23,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define BMP180_h
 
 #include <inttypes.h>
-#include "../Wire/Wire.h"
+#include <Wire.h>
 
 #define BMP180_Address 0x77
 
